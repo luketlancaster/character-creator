@@ -1,6 +1,7 @@
 .characterEditor {
   padding-top: 128px;
   padding-bottom: 64px;
+  background: linear-gradient(to bottom, hsl(180deg, 25%, 92%) 60%, hsl(195deg, 20%, 86%) 60% 100%);
 }
 
 .maxWidthWrapper {
